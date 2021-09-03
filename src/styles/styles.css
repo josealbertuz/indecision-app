@@ -1,0 +1,10 @@
+* {
+    box-sizing: content-box;
+}
+html {
+    font-size: calc(0.5em + 1vw);
+}
+body {
+    margin: 0;
+    min-height: 100vh;
+}
